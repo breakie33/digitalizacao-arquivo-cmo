@@ -1,0 +1,14 @@
+{
+  "name": "digitalizacao-backend",
+  "version": "1.0.0",
+  "description": "Backend da aplicação de digitalização de documentos do CMO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Paulo Sergio Xavier e João Guilherme Rosa Xavier",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
